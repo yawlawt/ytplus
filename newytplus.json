@@ -1,10 +1,77 @@
 {
- "FileName": "",
- "Version": "",
- "ReleaseNotes": "",
+ "FileName": "ytplus1",
+ "Version": "1.0.2",
+ "ReleaseNotes": "Dtac Jaidee Backup Net\nDtac Slowdns\nAis Play & 64kbps\nDtac Gaming\nVip 1Month 50ဘတ်",
  "contactSupport": "",
- "Servers": [],
- "HTTPNetworks": [],
+ "Servers": [
+  {
+   "Name": "Dtac ကျိုင် ဒီ အရံနက် 1",
+   "serverType": "4",
+   "FLAG": "dtac",
+   "Category": "1",
+   "ServerIP": "6d9k73VxoU4jYiPlKz2gpsyMTqJ8QaIWHAxE0rqf5Wp+1vpysB4tioUmkTvb+sqTRWlxxQ==",
+   "ServerCloudFront": "6d9k73VxoU4jYiPlKz2gpsyMTqJ8QaIWHAxE0rqf5Wp+1vpysB4tioUmkTvb+sqTRWlxxQ==",
+   "ServerHTTP": "6d9k73VxoU4jYiPlKz2gpsyMTqJ8QaIWHAxE0rqf5Wp+1vpysB4tioUmkTvb+sqTRWlxxQ==",
+   "TcpPort": "",
+   "SSLPort": "443",
+   "ProxyPort": "8080",
+   "AutoLogIn": "true",
+   "Username": "eGBXgztOaFK6+kHV",
+   "Password": "eGBXgztOaFK6+kHV",
+   "MultiCert": "false",
+   "ovpnCertificate": ""
+  },
+  {
+   "Name": "Dtac ကျိုင်ဒီ အရံနက် 2",
+   "serverType": "4",
+   "FLAG": "dtac",
+   "Category": "1",
+   "ServerIP": "jfQrCcnVqxVbmwZL\/GX45\/2Ij1uygm6n5+z+Fx0xid0fwbc8wAS7xCkQTP1k82riOdqhoJri9DsdOTKO",
+   "ServerCloudFront": "jfQrCcnVqxVbmwZL\/GX45\/2Ij1uygm6n5+z+Fx0xid0fwbc8wAS7xCkQTP1k82riOdqhoJri9DsdOTKO",
+   "ServerHTTP": "jfQrCcnVqxVbmwZL\/GX45\/2Ij1uygm6n5+z+Fx0xid0fwbc8wAS7xCkQTP1k82riOdqhoJri9DsdOTKO",
+   "TcpPort": "",
+   "SSLPort": "443",
+   "ProxyPort": "8080",
+   "AutoLogIn": "true",
+   "Username": "9Ij61AeosBEK0AgCoHXoCg==",
+   "Password": "9Ij61AeosBEK0AgCoHXoCg==",
+   "MultiCert": "false",
+   "ovpnCertificate": ""
+  },
+  {
+   "Name": "Dtac ကျိုင်ဒီ အရံနက် 3",
+   "serverType": "4",
+   "FLAG": "dtac",
+   "Category": "1",
+   "ServerIP": "orwwLetOsw5yVCshMpr8AS7GaqSgz1dJsDs+\/gvM50+P45b6cuvXKd1Be\/Q=",
+   "ServerCloudFront": "orwwLetOsw5yVCshMpr8AS7GaqSgz1dJsDs+\/gvM50+P45b6cuvXKd1Be\/Q=",
+   "ServerHTTP": "orwwLetOsw5yVCshMpr8AS7GaqSgz1dJsDs+\/gvM50+P45b6cuvXKd1Be\/Q=",
+   "TcpPort": "",
+   "SSLPort": "443",
+   "ProxyPort": "8080",
+   "AutoLogIn": "true",
+   "Username": "Q\/TudVH+Ev12KaF4Qi52mQ==",
+   "Password": "Q\/TudVH+Ev12KaF4Qi52mQ==",
+   "MultiCert": "false",
+   "ovpnCertificate": ""
+  }
+ ],
+ "HTTPNetworks": [
+  {
+   "FLAG": "dtac",
+   "proto_spin": "1",
+   "server_type": "http",
+   "Name": "Dtac ကျိုင်းဒီ အရံနက်",
+   "NetworkPayload": "jsV6ogr4lg8W4UBnzwvxWQQqgdV0dCtCYDyY7kWGTuoqVsfsg6kutaM1sTRz9lfJbEXpp+Sxf+I4blWI4vyBbJL5W++gl99qpgqWaEl2bJU99bMsH4p9MKq8jD9JlwTwwIsWTgMAVxRdW+EHwcO7+tohz+V6hm\/HBABfc4cbPZBXq5EDoViBS6Zo+AlS1Xxp2r1HJGmxNR1auVlyXUUe6WsR7Akza3xyHqvZOG3j7qjhhocp3THaM1KSj+Rno2A4JE0N4QBQXbRJbTQuuoeeWqJ9D80mn3DLp\/h+yzntJIjBJQLJn1XyJEVECLWxSl0wRdQC450aC5\/QkCRbGKV9gVIxloQtOFsG267GFaXzf9h\/bJ67XQdf7dx6dHXHnpAgUuRkZh94h8lLwP+2MQx4VKvcR8asEzl13pDqy5RwnN5Y0chlATrVkfiMd5h5dKo2rBx0hDqQlXM2ovFl1UA6JurtFFBh7hFyo7d+DbE3v52727lmMoN6ZKMB86Uh1mPhV\/zXrY0fYWDD3+5Qd1M6hTffw5Pc6AsWwExQUOfo6y9dzowM3\/7DQXp\/i1+Q80TvWUiSWKdZ+1l8iLB5QplGeBcULsj2Hue4QEK6F4yW27jwoh2SoSMoR1yrix3wKiZE8eBbicl3o0gaf7WwwKFtjHA0rhArmHOIdpF1+XnXD7VBDK\/zWVe6F8wrE9jLCbdrHtfeT5r0hPdmXBhvjXHzymWK+ugaNSRPnfPhhLRXRTFVFKfwGFw6cPBDRf6wEXMsaXxEoCFVFvOYD28jG79goRGfEfZmYFursn9MzIDwO0n3\/kOBD64X8VtbZdh\/jxC8hOtTJEVrV9Xo7jDWSp16j8IaciuX\/VvN\/+yeG2LyxSKzWI2BlnIwqcb7iv4MvWyzpg\/SSBbqOki+dhGAsVXbk1O18C3X8fOPN8VqnwrfW+KGMDG8lcfzSm9mWq11Yywz6UvDFeYnt7GHfNFxK5\/rgoZdybReUU8wPbQDrxP65vVL3shOCTAoe5Lwm6a4\/nl4YJs5LT8drNcLkrNPSG6U1lqK+S03aAXVdHij\/\/NkQ2EAxl9Fhb8CkLk38bN5DXAeuUvwnND5WWkqtnbBrBYLQhRGSaytdI1FM0ALDQ==",
+   "Info": "ကျိုင်ဒီ ကုဒ် *117*30# တစ်လ ၃၀ ဘတ်",
+   "UseDefProxy": "true",
+   "AutoReplace": "false",
+   "SquidProxy": "LlbOSpdcXOPqBJj83fykAxJBgj2GyOBBlXMrMVjsxuw=",
+   "SquidPort": "8080",
+   "NetworkFrontQuery": "",
+   "NetworkBackQuery": ""
+  }
+ ],
  "SSLNetworks": [],
  "Ovpn_Cert": ""
 }
